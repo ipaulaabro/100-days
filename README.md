@@ -4,7 +4,7 @@ ___
 
 ## days001-010
 
-### `day001`: [🖥]()
+### `day001`: [🎸 Band Name Generator](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day001/project)
 
 ### `day002`: [🖥]()
 
