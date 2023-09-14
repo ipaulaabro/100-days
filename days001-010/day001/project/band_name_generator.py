@@ -5,5 +5,4 @@ pet = input("What's your pet's name?\n")
 
 band_name = city + " " + pet
 
-print("Your band name could be:")
-print("🎸 " + band_name + " 🎸")
+print("\n🎸 Your band name could be: " + band_name + " 🎸")
