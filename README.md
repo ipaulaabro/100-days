@@ -8,9 +8,9 @@ ___
 
 ### `day002`: [💰Tip Calculator](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day002/project)
 
-### `day003`: [🖥](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day003/project)
+### `day003`: [🏝️ Treasure Island](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day003/project)
 
-### `day004`: [🖥](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day004/project)
+### `day004`: [🕹️ Rock Paper Scissors](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day004/project)
 
 ### `day005`: [🖥](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day005/project)
 
