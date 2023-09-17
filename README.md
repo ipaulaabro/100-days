@@ -12,7 +12,7 @@ ___
 
 ### `day004`: [🕹️ Rock Paper Scissors](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day004/project)
 
-### `day005`: [🖥](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day005/project)
+### `day005`: [🔐 Password Generator](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day005/project)
 
 ### `day006`: [🖥](https://github.com/ipaulaabro/100-days/blob/main/days001-010/day006/project)
 
